@@ -1,0 +1,5 @@
+C:\Users\Amar\RiderProjects\TicTacToe_Game\TicTacToe_Game\bin\Release\win-x64\publish\TicTacToe_Game.exe
+C:\Users\Amar\RiderProjects\TicTacToe_Game\TicTacToe_Game\bin\Release\win-x64\publish\TicTacToe_Game.dll
+C:\Users\Amar\RiderProjects\TicTacToe_Game\TicTacToe_Game\bin\Release\win-x64\publish\TicTacToe_Game.deps.json
+C:\Users\Amar\RiderProjects\TicTacToe_Game\TicTacToe_Game\bin\Release\win-x64\publish\TicTacToe_Game.runtimeconfig.json
+C:\Users\Amar\RiderProjects\TicTacToe_Game\TicTacToe_Game\bin\Release\win-x64\publish\TicTacToe_Game.pdb

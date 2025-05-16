@@ -157,7 +157,6 @@ namespace TicTacToe_Game
         
         static void Main()
         {
-            Console.ReadKey();
             String[,] tttBoardStructure =
             {
                 {"-","-","-"},

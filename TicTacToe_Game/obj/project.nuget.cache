@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "hRjDUrLcBNY=",
+  "dgSpecHash": "sV6vKCN156dVsHwUxSwa3ExzdqFhjBBcMCKvdDrl2lo1r+Yj3Wbex9hrGn9HTHXStyfBhdRb2ZOceFiRgT2KrA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Amar\\RiderProjects\\TicTacToe_Game\\TicTacToe_Game\\TicTacToe_Game.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Amar\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.36\\microsoft.netcore.app.runtime.win-x86.6.0.36.nupkg.sha512",
+    "C:\\Users\\Amar\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.36\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.36.nupkg.sha512",
+    "C:\\Users\\Amar\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.36\\microsoft.aspnetcore.app.runtime.win-x86.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }

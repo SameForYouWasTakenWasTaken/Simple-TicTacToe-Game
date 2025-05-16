@@ -1,0 +1,2 @@
+C:\Users\Amar\RiderProjects\TicTacToe_Game\TicTacToe_Game\bin\Release\net6.0\win-x86\publish\TicTacToe_Game.pdb
+C:\Users\Amar\RiderProjects\TicTacToe_Game\TicTacToe_Game\bin\Release\net6.0\win-x86\publish\TicTacToe_Game.exe
